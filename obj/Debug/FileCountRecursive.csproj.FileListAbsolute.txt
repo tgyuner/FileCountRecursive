@@ -1,0 +1,9 @@
+c:\users\tugay\documents\visual studio 2015\Projects\FileCountRecursive\FileCountRecursive\bin\Debug\FileCountRecursive.exe.config
+c:\users\tugay\documents\visual studio 2015\Projects\FileCountRecursive\FileCountRecursive\bin\Debug\FileCountRecursive.exe
+c:\users\tugay\documents\visual studio 2015\Projects\FileCountRecursive\FileCountRecursive\bin\Debug\FileCountRecursive.pdb
+c:\users\tugay\documents\visual studio 2015\Projects\FileCountRecursive\FileCountRecursive\obj\Debug\FileCountRecursive.csprojResolveAssemblyReference.cache
+c:\users\tugay\documents\visual studio 2015\Projects\FileCountRecursive\FileCountRecursive\obj\Debug\FileCountRecursive.Form1.resources
+c:\users\tugay\documents\visual studio 2015\Projects\FileCountRecursive\FileCountRecursive\obj\Debug\FileCountRecursive.Properties.Resources.resources
+c:\users\tugay\documents\visual studio 2015\Projects\FileCountRecursive\FileCountRecursive\obj\Debug\FileCountRecursive.csproj.GenerateResource.Cache
+c:\users\tugay\documents\visual studio 2015\Projects\FileCountRecursive\FileCountRecursive\obj\Debug\FileCountRecursive.exe
+c:\users\tugay\documents\visual studio 2015\Projects\FileCountRecursive\FileCountRecursive\obj\Debug\FileCountRecursive.pdb
