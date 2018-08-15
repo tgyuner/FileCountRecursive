@@ -16,7 +16,7 @@ namespace FileCountRecursive
         public Form1()
         {
             InitializeComponent();
-            // Tugay ÜNER 2018 ©
+            // Tugay ÜNER 2018 © Agust
         }
 
         private void button1_Click(object sender, EventArgs e)
